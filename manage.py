@@ -19,4 +19,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-git push -u origin master
